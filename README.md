@@ -4,7 +4,7 @@ I would love to open source pretty much any of my tools if there is demand for i
 
 ## Requests
 
-If you would like me to open source one of my tools, please **create an issue on this repo** with a link to the tool! It can be as simple as this
+If you would like me to open source one of my tools, please [create an issue on this repo](https://github.com/patbeagan1/Open-Source-Requests/issues/new) with a link to the tool! It can be as simple as this
 ```
 title: Please open source XYZ
 description: This is a link to the project: https://example.com
