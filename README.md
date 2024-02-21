@@ -24,14 +24,4 @@ The maintainers of [Obsidian.md](https://obsidian.md/), who I admire, have taken
 
 I've come to agree with that on a variety of levels. The user is the most important part of any product. Since I'm the only user for a lot of my tools (and certainly the only maintainer), it makes a lot more sense to spend my limited time on the features that I personally care about the most. In order to move fast on several projects at once, I keep the source for most of my projects in a single private repo. If there is any demand at all for open sourcing a project, I can migrate the source code for it to a newly created, public repo.
 
-
-
-<!--
-How to publish, per platform
-
-Python
-https://pypi.org/manage/projects/
-https://packaging.python.org/en/latest/tutorials/packaging-projects/
--->
-
 [1]: https://obsidian.rocks/why-isnt-obsidian-open-source/
