@@ -13,7 +13,7 @@ Once I can, I'll reply to the issue with a link to the newly created repository.
 
 ## Published Projects
 
-- [via Cargo](https://crates.io/users/patbeagan)
+- [via Cargo](https://crates.io/users/patbeagan1/)
 - [via pip](https://pypi.org/user/patbeagan1/)
 
 ## Why would I need to request open source?
